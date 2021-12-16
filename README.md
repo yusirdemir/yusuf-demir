@@ -9,7 +9,7 @@ I am Yusuf Demir 🧔
 I live in Istanbul. I developed myself for over 6 years. I am currently working as Elixir developer at a company👨‍💻. I have been working on Ruby on Rails for about four year. Anymore my future career will be on Erlang/Elixir 😎.
 ## ⚡ Technologies
 Talk to me about
-- Language **Elixir, Erlang, Ruby**
+- Language **Elixir, Erlang, Ruby, Go**
 - Framework **Phoenix, Ruby on Rails**
 
 ## 🤔 Hello World!! 
