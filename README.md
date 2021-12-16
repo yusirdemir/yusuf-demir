@@ -9,13 +9,8 @@ I am Yusuf Demir 🧔
 I live in Istanbul. I developed myself for over 6 years. I am currently working as Elixir developer at a company👨‍💻. I have been working on Ruby on Rails for about four year. Anymore my future career will be on Erlang/Elixir 😎.
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript (Angular)**
-- Backend development using **Ruby on Rails, Phoenix**
-- Mobile development using **Flutter, Ionic**
-- Game development using **Unity**
-- Creating big and small projects using **R, Python, C++, C**
-- Making for **Relational Database Management Systems**
-- Solving Data structure and algorithm questions in **R and Python**
+- Language **Elixir, Erlang, Ruby**
+- Framework **Phoenix, Ruby on Rails**
 
 ## 🤔 Hello World!! 
 - 💬 Ask me about anything and everything.
